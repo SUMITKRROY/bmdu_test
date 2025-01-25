@@ -1,0 +1,237 @@
+{
+  "project_info": {
+    "project_number": "219496358547",
+    "project_id": "project-hub-3c711",
+    "storage_bucket": "project-hub-3c711.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219496358547:android:3f204484e44e95f5966366",
+        "android_client_info": {
+          "package_name": "com.example.bmdu_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219496358547-gqb6an0bisiauindatje0pbibi1t2pq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUy-mSM0WT8uzAnQ4BWHVAAFZ4BkUycPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219496358547-gqb6an0bisiauindatje0pbibi1t2pq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219496358547:android:b678f81da8abe8dc966366",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219496358547-gqb6an0bisiauindatje0pbibi1t2pq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUy-mSM0WT8uzAnQ4BWHVAAFZ4BkUycPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219496358547-gqb6an0bisiauindatje0pbibi1t2pq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219496358547:android:f54f4ef33a2ef884966366",
+        "android_client_info": {
+          "package_name": "com.example.loginwithsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219496358547-gqb6an0bisiauindatje0pbibi1t2pq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUy-mSM0WT8uzAnQ4BWHVAAFZ4BkUycPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219496358547-gqb6an0bisiauindatje0pbibi1t2pq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219496358547:android:2e2eb3110494a843966366",
+        "android_client_info": {
+          "package_name": "com.example.pvpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219496358547-gqb6an0bisiauindatje0pbibi1t2pq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUy-mSM0WT8uzAnQ4BWHVAAFZ4BkUycPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219496358547-gqb6an0bisiauindatje0pbibi1t2pq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219496358547:android:30aabbb03dd897de966366",
+        "android_client_info": {
+          "package_name": "com.example.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219496358547-gqb6an0bisiauindatje0pbibi1t2pq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUy-mSM0WT8uzAnQ4BWHVAAFZ4BkUycPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219496358547-gqb6an0bisiauindatje0pbibi1t2pq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219496358547:android:c1fc919848dccce9966366",
+        "android_client_info": {
+          "package_name": "com.test.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219496358547-gqb6an0bisiauindatje0pbibi1t2pq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUy-mSM0WT8uzAnQ4BWHVAAFZ4BkUycPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219496358547-gqb6an0bisiauindatje0pbibi1t2pq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219496358547:android:d4f269f18d582bbf966366",
+        "android_client_info": {
+          "package_name": "com.user.voice_meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219496358547-5daqg32hvj52lsrupdpu0rjfs0m1nbrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.voice_meet",
+            "certificate_hash": "f17b0ae097a1d9ff932925dd3a5beff7e93a9acf"
+          }
+        },
+        {
+          "client_id": "219496358547-h9knpvnaobknd5k0qhg5s5r98nstp75l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.voice_meet",
+            "certificate_hash": "0ef00bcf2945219b087cccc31a4e3101b3f242d0"
+          }
+        },
+        {
+          "client_id": "219496358547-qmm7ofv5ih99ed25nn8inafachpuvvme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.voice_meet",
+            "certificate_hash": "9b24b6f063185b5d019d3ec5d76c88605c75d562"
+          }
+        },
+        {
+          "client_id": "219496358547-gqb6an0bisiauindatje0pbibi1t2pq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUy-mSM0WT8uzAnQ4BWHVAAFZ4BkUycPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219496358547-gqb6an0bisiauindatje0pbibi1t2pq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
